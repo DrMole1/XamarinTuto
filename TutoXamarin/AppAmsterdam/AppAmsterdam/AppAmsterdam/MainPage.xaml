@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAmsterdam.MainPage">
+
+    <StackLayout x:Name="MainLayout"
+                 BackgroundColor="Gray"
+                 Margin="10"
+                 Spacing="10"
+                 Padding="8"
+                 Orientation="Vertical">
+
+        <Editor BackgroundColor="Gray" 
+                AutoSize="TextChanges"
+                Placeholder="Edit me !"
+                PlaceholderColor="Blue"
+                IsReadOnly="False"
+                TextTransform="None"
+                TextColor="Red"
+                MaxLength="10"
+                CharacterSpacing="1"
+                IsTextPredictionEnabled="False"
+                Keyboard="Default"
+                
+                Completed="OnEditorCompleted"
+                TextChanged="OnEditorChanged"/>
+
+        <Entry Placeholder="Edit the entry !"
+               IsPassword="False"
+               ReturnType="Go"
+               
+               Completed="OnEditorCompleted"
+               TextChanged="OnEditorChanged"/>
+
+        <BoxView Color="Red"
+                 VerticalOptions="Start"
+                 HorizontalOptions="Start"/>
+
+        <BoxView Color="Green"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"/>
+
+        <BoxView Color="Blue"
+                 VerticalOptions="CenterAndExpand"/>
+
+        <Frame BorderColor="Black"
+               Padding="5">
+            
+            <StackLayout Orientation="Horizontal">
+
+                <BoxView Color="Red"/>
+
+                <Label Text="Red"
+                       FontSize="Large"
+                       VerticalOptions="Center"/>
+            </StackLayout>
+        </Frame>
+        
+        <Label x:Name="MainLabel"
+               Text="Hello World"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+        
+        <Button x:Name="BtnConfirm" 
+                Text="Confirm" 
+                FontSize="20"
+                FontAttributes="Bold"
+                WidthRequest="150"
+                BackgroundColor="ForestGreen"
+                TextColor="White"
+                CornerRadius="10"
+                BorderColor="Red"
+                BorderWidth="6"
+                
+                Clicked="OnClick"
+                Pressed="OnPressed"
+                Released="OnReleased"/>
+
+        <Button Text="Next Page"
+                Clicked="GoToNextPage"/>
+
+        <Entry x:Name="NewUser"
+               Placeholder="Name"/>
+
+        <Button x:Name="AddUser"
+                Text="Add User"
+                Clicked="AddUser_Clicked"/>
+
+        <Button x:Name="GetUsers"
+                Text="Get Users"
+                Clicked="GetUsers_Clicked"/>
+
+        <Label x:Name="StatusMessage"/>
+
+    </StackLayout>
+
+</ContentPage>

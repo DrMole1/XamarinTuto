@@ -1,0 +1,17 @@
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\bin\Debug\netstandard2.0\AppAmsterdam.deps.json
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\bin\Debug\netstandard2.0\AppAmsterdam.dll
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\bin\Debug\netstandard2.0\ref\AppAmsterdam.dll
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\bin\Debug\netstandard2.0\AppAmsterdam.pdb
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.csproj.AssemblyReference.cache
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.AssemblyInfo.cs
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.dll
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\ref\AppAmsterdam.dll
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\AppAmsterdam.pdb
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
+C:\Users\basti\Desktop\Creations\DevProjects\AppAmsterdamXamarin\AppAmsterdam\AppAmsterdam\AppAmsterdam\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
